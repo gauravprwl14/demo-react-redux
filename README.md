@@ -13,13 +13,6 @@ Setting up node modules for the project:
 
 `npm install`
     
-Set up .env file in your project directory:
-
-Create `.env` file in the root of your project directory and paste the following in it:
-
-`REACT_APP_API='http://localhost'
-REACT_APP_API_PORT=3050`
-
 Running the project once everything is setup:
 
 `npm start`
